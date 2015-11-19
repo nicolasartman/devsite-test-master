@@ -5,4 +5,4 @@
 [submodule "subsites/two"]
   path = subsites/two
   url = git@github.com:nicolasartman/devsite-test-source-two.git
-  branch = v1
+  branch = v2
