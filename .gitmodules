@@ -1,3 +1,6 @@
 [submodule "subsites/one"]
 	path = subsites/one
 	url = git@github.com:nicolasartman/devsite-test-source-one.git
+[submodule "subsites/two"]
+	path = subsites/two
+	url = git@github.com:nicolasartman/devsite-test-source-two.git
