@@ -1,0 +1,3 @@
+[submodule "subsites/one"]
+	path = subsites/one
+	url = git@github.com:nicolasartman/devsite-test-source-one.git
