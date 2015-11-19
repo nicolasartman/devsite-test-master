@@ -1,6 +1,7 @@
 [submodule "subsites/one"]
 	path = subsites/one
 	url = git@github.com:nicolasartman/devsite-test-source-one.git
+  branch = v1
 [submodule "subsites/two"]
 	path = subsites/two
 	url = git@github.com:nicolasartman/devsite-test-source-two.git
